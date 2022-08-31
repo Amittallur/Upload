@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amittallur/Upload.git/static/css/main.838a69de.chunk.css",
+    "main.js": "/Amittallur/Upload.git/static/js/main.380aefc3.chunk.js",
+    "main.js.map": "/Amittallur/Upload.git/static/js/main.380aefc3.chunk.js.map",
+    "runtime-main.js": "/Amittallur/Upload.git/static/js/runtime-main.99449159.js",
+    "runtime-main.js.map": "/Amittallur/Upload.git/static/js/runtime-main.99449159.js.map",
+    "static/js/2.e20dd552.chunk.js": "/Amittallur/Upload.git/static/js/2.e20dd552.chunk.js",
+    "static/js/2.e20dd552.chunk.js.map": "/Amittallur/Upload.git/static/js/2.e20dd552.chunk.js.map",
+    "index.html": "/Amittallur/Upload.git/index.html",
+    "precache-manifest.d60b66891759bdf1378e7eeb8db2bf8a.js": "/Amittallur/Upload.git/precache-manifest.d60b66891759bdf1378e7eeb8db2bf8a.js",
+    "service-worker.js": "/Amittallur/Upload.git/service-worker.js",
+    "static/css/main.838a69de.chunk.css.map": "/Amittallur/Upload.git/static/css/main.838a69de.chunk.css.map",
+    "static/js/2.e20dd552.chunk.js.LICENSE.txt": "/Amittallur/Upload.git/static/js/2.e20dd552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99449159.js",
+    "static/js/2.e20dd552.chunk.js",
+    "static/css/main.838a69de.chunk.css",
+    "static/js/main.380aefc3.chunk.js"
+  ]
+}
